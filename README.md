@@ -22,10 +22,10 @@
 
 ![banner](https://github.com/pauloteixeira01/js-test/blob/main/img/banner.png)
 
-### O processo de criação de programação orientado a testes é simples:
+### The process of creating test-oriented programming is simple:
 
-  1.  **RED:** Escreva um teste que falhe. Pense no que o código deve fazer, descreva o contexto e defina quais são as verificações que precisam ser feitas. Não há um limite no número de testes, então quanto menos coisa cada teste descrever e verificar melhor, isso também é conhecido como **Baby Steps**. No início também não é preciso se preocupar se a classe/método ainda não existe. Pense primeiro no teste e só depois que este estiver pronto crie a arquitetura necessária, e então todo o ciclo tem início novamente.
+  1.  **RED:** Write a test that fails. Think about what the code should do, describe the context and define what checks need to be done. There is no limit on the number of tests, so the less each test describes and checks the better, this is also known as **Baby Steps**. At the beginning there is also no need to worry about whether the class / method does not yet exist. Think about the test first and only after it is ready will you create the necessary architecture, and then the whole cycle begins again.
   
-  2.  **GREEN:** Faça o teste passar. Agora, escreva o mínimo de código para que o teste passe.
+  2.  **GREEN:**Pass the test. Now, write the minimum code for the test to pass.
 
-  3.  **BLUE:** Refatorar. Significa que uma vez que o teste passou, procure se o código pode ser melhorado, note que o código já funciona porém na maior parte das vezes sempre existe algo que pode torná-lo menor. Geralmente para um teste passar é preciso inserir duplicação através de constantes.
+  3.  **BLUE:** Refactoring. It means that once the test has passed, look for whether the code can be improved, note that the code already works but in most cases there is always something that can make it smaller. Generally for a test to pass it is necessary to insert duplication through constants.
