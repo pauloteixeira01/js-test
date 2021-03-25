@@ -14,11 +14,11 @@
 * BDD - Behavior Driven Development
   * It is an Agile development technique that encourages collaboration between developers, quality sectors and non-technical or business people in a software project, it relates to the concept of verification and validation.
 
-### Os testes tem três partes:
+### The tests have three parts:
 
-* RED: É quando o resultado do teste falha.
-* GREEN: É quando o resultado do teste é 'OK'.
-* BLUE: Refatoração. 
+* RED: It's when the test result fails.
+* GREEN: It's when the result test is positive.
+* BLUE: Refactoring. 
 
 ![banner](https://github.com/pauloteixeira01/js-test/blob/main/img/banner.png)
 
