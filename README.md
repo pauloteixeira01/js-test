@@ -1,4 +1,4 @@
-# Teste com JavaScript
+# Testes com JavaScript
 
 ## Tecnologias Usadas:
 
@@ -21,6 +21,8 @@
 * RED: É quando o resultado do teste falha.
 * GREEN: É quando o resultado do teste é 'OK'.
 * BLUE: Refatoração. 
+
+![banner](https://github.com/pauloteixeira01/js-test/blob/main/img/banner.png)
 
 ### O processo de criação de programação orientado a testes é simples:
 
