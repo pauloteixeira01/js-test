@@ -1,33 +1,31 @@
-# Testes com JavaScript
+# Tests with JavaScript
 
-## Tecnologias Usadas:
+## Tecnologies Used:
 
 * [NodeJS](https://nodejs.org/en/)
 * [Mocha](https://mochajs.org/)
 * [Chai](https://www.npmjs.com/package/chai)
 
-## Breve Explicação
+## Brief explanation
 
 * TDD - Test Drive Development
-  * Desenvolvimento Orientado por Testes.
-  * Software baseado em testes que são escritos antes do nosso código de produção.
+  * Software development based on tests that are written before our production code.
 
 * BDD - Behavior Driven Development
-  * Desenvolvimento orientado por comportamento.
-  * É uma técnica de desenvolvimento Ágil que encoraja colaboração entre desenvolvedores, setores de qualidade e pessoas não-técnicas ou de negócios num projeto de software, relaciona-se com o conceito de verificação e validação.
+  * It is an Agile development technique that encourages collaboration between developers, quality sectors and non-technical or business people in a software project, it relates to the concept of verification and validation.
 
-### Os testes tem três partes:
+### The tests have three parts:
 
-* RED: É quando o resultado do teste falha.
-* GREEN: É quando o resultado do teste é 'OK'.
-* BLUE: Refatoração. 
+* RED: It's when the test result fails.
+* GREEN: It's when the result test is positive.
+* BLUE: Refactoring. 
 
 ![banner](https://github.com/pauloteixeira01/js-test/blob/main/img/banner.png)
 
-### O processo de criação de programação orientado a testes é simples:
+### The process of creating test-oriented programming is simple:
 
-  1.  **RED:** Escreva um teste que falhe. Pense no que o código deve fazer, descreva o contexto e defina quais são as verificações que precisam ser feitas. Não há um limite no número de testes, então quanto menos coisa cada teste descrever e verificar melhor, isso também é conhecido como **Baby Steps**. No início também não é preciso se preocupar se a classe/método ainda não existe. Pense primeiro no teste e só depois que este estiver pronto crie a arquitetura necessária, e então todo o ciclo tem início novamente.
+  1.  **RED:** Write a test that fails. Think about what the code should do, describe the context and define what checks need to be done. There is no limit on the number of tests, so the less each test describes and checks the better, this is also known as **Baby Steps**. At the beginning there is also no need to worry about whether the class / method does not yet exist. Think about the test first and only after it is ready will you create the necessary architecture, and then the whole cycle begins again.
   
-  2.  **GREEN:** Faça o teste passar. Agora, escreva o mínimo de código para que o teste passe.
+  2.  **GREEN:**Pass the test. Now, write the minimum code for the test to pass.
 
-  3.  **BLUE:** Refatorar. Significa que uma vez que o teste passou, procure se o código pode ser melhorado, note que o código já funciona porém na maior parte das vezes sempre existe algo que pode torná-lo menor. Geralmente para um teste passar é preciso inserir duplicação através de constantes.
+  3.  **BLUE:** Refactoring. It means that once the test has passed, look for whether the code can be improved, note that the code already works but in most cases there is always something that can make it smaller. Generally for a test to pass it is necessary to insert duplication through constants.
