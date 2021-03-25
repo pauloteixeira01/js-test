@@ -2,9 +2,9 @@
 
 ## Tecnologias Usadas:
 
-* JavaScript
+* [NodeJS](https://nodejs.org/en/)
 * [Mocha](https://mochajs.org/)
-* Chai
+* [Chai](https://www.npmjs.com/package/chai)
 
 ## Breve Explicação
 
