@@ -6,6 +6,10 @@
 * [Mocha](https://mochajs.org/)
 * [Chai](https://www.npmjs.com/package/chai)
 
+## Run:
+
+* In project folder run: **mocha**
+
 ## Brief explanation
 
 * TDD - Test Drive Development
