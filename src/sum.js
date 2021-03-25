@@ -1,2 +1,7 @@
 'use strict';
-module.exports = () => {};
+
+function sum() {
+  console.log('Teste');
+}
+
+module.exports = sum;
