@@ -1,20 +1,18 @@
-# Testes com JavaScript
+# Tests with JavaScript
 
-## Tecnologias Usadas:
+## Tecnologies Used:
 
 * [NodeJS](https://nodejs.org/en/)
 * [Mocha](https://mochajs.org/)
 * [Chai](https://www.npmjs.com/package/chai)
 
-## Breve Explicação
+## Brief explanation
 
 * TDD - Test Drive Development
-  * Desenvolvimento Orientado por Testes.
-  * Software baseado em testes que são escritos antes do nosso código de produção.
+  * Software development based on tests that are written before our production code.
 
 * BDD - Behavior Driven Development
-  * Desenvolvimento orientado por comportamento.
-  * É uma técnica de desenvolvimento Ágil que encoraja colaboração entre desenvolvedores, setores de qualidade e pessoas não-técnicas ou de negócios num projeto de software, relaciona-se com o conceito de verificação e validação.
+  * It is an Agile development technique that encourages collaboration between developers, quality sectors and non-technical or business people in a software project, it relates to the concept of verification and validation.
 
 ### Os testes tem três partes:
 
